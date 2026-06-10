@@ -1,41 +1,25 @@
-# Hola, soy Óscar
-Desarrollador Backend enfocado en construir APIs, sistemas escalables y aplicaciones orientadas a resolver problemas reales.
+# Backend Portfolio
 
-## Tecnologías
-
-* Node.js
-* Express
-* PostgreSQL
-* MongoDB
-* Docker
-* Git y GitHub
+Colección de proyectos desarrollados para mejorar mis habilidades como desarrollador backend.
 
 ## Proyectos
 
 ### Portfolio Web
+[Repositorio](LINK)
 
-Mi página personal donde presento mis proyectos y experiencia.
+### API REST
+[Repositorio](LINK)
 
-### API REST de Gestión de Tareas
+### Auth Service
+[Repositorio](LINK)
 
-API con autenticación JWT, base de datos y documentación.
+### Queue System
+[Repositorio](LINK)
 
-### Sistema de Autenticación
+## Tecnologías
 
-Servicio independiente de autenticación y autorización.
-
-### Sistema de Colas
-
-Procesamiento asíncrono mediante Redis y workers.
-
-## Objetivo
-
-Estoy construyendo proyectos reales para desarrollar experiencia práctica en backend y prepararme para oportunidades profesionales como desarrollador junior.
-
-## Contacto
-
-LinkedIn: [URL](www.linkedin.com/in/oscar-ortega-real)
-
-GitHub: [URL](https://github.com/oscaror98)
-
-Email: [EMAIL] oscaror98@gmail.com
+- Node.js
+- Express
+- PostgreSQL
+- MongoDB
+- Docker
