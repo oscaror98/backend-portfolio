@@ -18,6 +18,7 @@ API REST con autenticación JWT, usuarios y rutas protegidas.
 👉 Swagger UI: https://backend-api-s0jd.onrender.com/docs
 
 👉 Redoc: https://backend-api-s0jd.onrender.com/redoc
+
 ---
 
 ### 📦 API REST - Tasks
