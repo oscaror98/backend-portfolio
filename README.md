@@ -12,7 +12,7 @@ Incluye APIs REST, autenticación JWT, bases de datos y sistemas escalables.
 API REST con autenticación JWT, usuarios y rutas protegidas.
 
 👉 Repositorio: https://github.com/oscaror98/backend-portfolio/tree/main/auth-service  
-👉 Documentación: https://backend-api-s0jd.onrender.com
+👉 Documentación: https://backend-api-s0jd.onrender.com/docs /// https://backend-api-s0jd.onrender.com/redoc
 
 ---
 
